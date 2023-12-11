@@ -32,3 +32,6 @@
 - amplify push -y
 - npm install aws-amplify --save
 - edit src/App.js
+
+
+![image](https://github.com/MahdadGhasemian/serverless-react-tutorial-project/assets/48379992/85e23ca0-32d9-4a67-9c73-6f16d7c9e370)
